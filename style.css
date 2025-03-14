@@ -103,11 +103,11 @@ body {
 .hero {
    display: grid;
    grid-area: hero;
-   min-height: 200px;
+   min-height: 360px;
    background-image: url(images/news.jpg);
    background-size: cover;
    background-position: center;
-   padding: 70px;
+   padding: 90px;
 }
 .hero > * {
    display: none;
